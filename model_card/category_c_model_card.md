@@ -9,7 +9,7 @@ repo: https://github.com/jungwoo9/authorship_verification_with_data_augmentation
 
 ---
 
-# Model Card for y44694jk-x20023am-AV
+# Model Card for y44694jk-AV
 
 <!-- Provide a quick summary of what the model is/does. -->
 
